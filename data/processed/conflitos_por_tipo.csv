@@ -1,0 +1,249 @@
+ano,tipo,n_conflitos
+1946,Extrassistêmico,5
+1946,Interestatal,2
+1946,Intraestatal,8
+1946,Intraestatal internacionalizado,2
+1947,Extrassistêmico,5
+1947,Intraestatal,9
+1948,Extrassistêmico,5
+1948,Interestatal,3
+1948,Intraestatal,12
+1949,Extrassistêmico,5
+1949,Interestatal,3
+1949,Intraestatal,13
+1950,Extrassistêmico,5
+1950,Interestatal,2
+1950,Intraestatal,11
+1951,Extrassistêmico,4
+1951,Interestatal,2
+1951,Intraestatal,8
+1952,Extrassistêmico,5
+1952,Interestatal,2
+1952,Intraestatal,7
+1953,Extrassistêmico,7
+1953,Interestatal,1
+1953,Intraestatal,8
+1954,Extrassistêmico,6
+1954,Interestatal,1
+1954,Intraestatal,8
+1955,Extrassistêmico,6
+1955,Intraestatal,7
+1956,Extrassistêmico,6
+1956,Interestatal,2
+1956,Intraestatal,9
+1957,Extrassistêmico,6
+1957,Interestatal,1
+1957,Intraestatal,9
+1957,Intraestatal internacionalizado,1
+1958,Extrassistêmico,5
+1958,Interestatal,1
+1958,Intraestatal,11
+1958,Intraestatal internacionalizado,1
+1959,Extrassistêmico,3
+1959,Intraestatal,12
+1959,Intraestatal internacionalizado,1
+1960,Extrassistêmico,1
+1960,Intraestatal,11
+1960,Intraestatal internacionalizado,3
+1961,Extrassistêmico,2
+1961,Interestatal,1
+1961,Intraestatal,16
+1961,Intraestatal internacionalizado,2
+1962,Extrassistêmico,3
+1962,Interestatal,2
+1962,Intraestatal,13
+1962,Intraestatal internacionalizado,2
+1963,Extrassistêmico,2
+1963,Interestatal,2
+1963,Intraestatal,13
+1963,Intraestatal internacionalizado,3
+1964,Extrassistêmico,4
+1964,Interestatal,3
+1964,Intraestatal,14
+1964,Intraestatal internacionalizado,4
+1965,Extrassistêmico,4
+1965,Interestatal,3
+1965,Intraestatal,17
+1965,Intraestatal internacionalizado,3
+1966,Extrassistêmico,4
+1966,Interestatal,2
+1966,Intraestatal,19
+1966,Intraestatal internacionalizado,3
+1967,Extrassistêmico,4
+1967,Interestatal,5
+1967,Intraestatal,22
+1967,Intraestatal internacionalizado,2
+1968,Extrassistêmico,3
+1968,Interestatal,1
+1968,Intraestatal,20
+1968,Intraestatal internacionalizado,2
+1969,Extrassistêmico,3
+1969,Interestatal,5
+1969,Intraestatal,17
+1969,Intraestatal internacionalizado,4
+1970,Extrassistêmico,3
+1970,Interestatal,2
+1970,Intraestatal,16
+1970,Intraestatal internacionalizado,5
+1971,Extrassistêmico,3
+1971,Interestatal,2
+1971,Intraestatal,20
+1971,Intraestatal internacionalizado,4
+1972,Extrassistêmico,3
+1972,Interestatal,2
+1972,Intraestatal,17
+1972,Intraestatal internacionalizado,4
+1973,Extrassistêmico,3
+1973,Interestatal,3
+1973,Intraestatal,17
+1973,Intraestatal internacionalizado,3
+1974,Extrassistêmico,2
+1974,Interestatal,4
+1974,Intraestatal,20
+1974,Intraestatal internacionalizado,2
+1975,Interestatal,2
+1975,Intraestatal,24
+1975,Intraestatal internacionalizado,4
+1976,Interestatal,1
+1976,Intraestatal,29
+1976,Intraestatal internacionalizado,2
+1977,Interestatal,3
+1977,Intraestatal,29
+1977,Intraestatal internacionalizado,4
+1978,Interestatal,4
+1978,Intraestatal,29
+1978,Intraestatal internacionalizado,5
+1979,Interestatal,3
+1979,Intraestatal,34
+1979,Intraestatal internacionalizado,4
+1980,Interestatal,3
+1980,Intraestatal,30
+1980,Intraestatal internacionalizado,8
+1981,Interestatal,2
+1981,Intraestatal,33
+1981,Intraestatal internacionalizado,7
+1982,Interestatal,2
+1982,Intraestatal,37
+1982,Intraestatal internacionalizado,5
+1983,Interestatal,4
+1983,Intraestatal,33
+1983,Intraestatal internacionalizado,6
+1984,Interestatal,3
+1984,Intraestatal,34
+1984,Intraestatal internacionalizado,5
+1985,Interestatal,2
+1985,Intraestatal,32
+1985,Intraestatal internacionalizado,4
+1986,Interestatal,3
+1986,Intraestatal,36
+1986,Intraestatal internacionalizado,5
+1987,Interestatal,5
+1987,Intraestatal,37
+1987,Intraestatal internacionalizado,5
+1988,Interestatal,3
+1988,Intraestatal,32
+1988,Intraestatal internacionalizado,4
+1989,Interestatal,2
+1989,Intraestatal,34
+1989,Intraestatal internacionalizado,5
+1990,Interestatal,2
+1990,Intraestatal,44
+1990,Intraestatal internacionalizado,3
+1991,Interestatal,2
+1991,Intraestatal,49
+1991,Intraestatal internacionalizado,2
+1992,Interestatal,1
+1992,Intraestatal,45
+1992,Intraestatal internacionalizado,5
+1993,Intraestatal,38
+1993,Intraestatal internacionalizado,6
+1994,Interestatal,1
+1994,Intraestatal,47
+1994,Intraestatal internacionalizado,2
+1995,Interestatal,1
+1995,Intraestatal,38
+1995,Intraestatal internacionalizado,2
+1996,Interestatal,2
+1996,Intraestatal,36
+1996,Intraestatal internacionalizado,3
+1997,Interestatal,1
+1997,Intraestatal,34
+1997,Intraestatal internacionalizado,4
+1998,Interestatal,2
+1998,Intraestatal,32
+1998,Intraestatal internacionalizado,6
+1999,Interestatal,2
+1999,Intraestatal,32
+1999,Intraestatal internacionalizado,6
+2000,Interestatal,2
+2000,Intraestatal,34
+2000,Intraestatal internacionalizado,4
+2001,Interestatal,2
+2001,Intraestatal,31
+2001,Intraestatal internacionalizado,5
+2002,Interestatal,1
+2002,Intraestatal,29
+2002,Intraestatal internacionalizado,3
+2003,Interestatal,2
+2003,Intraestatal,28
+2003,Intraestatal internacionalizado,3
+2004,Intraestatal,29
+2004,Intraestatal internacionalizado,4
+2005,Intraestatal,28
+2005,Intraestatal internacionalizado,5
+2006,Intraestatal,28
+2006,Intraestatal internacionalizado,5
+2007,Intraestatal,31
+2007,Intraestatal internacionalizado,4
+2008,Interestatal,1
+2008,Intraestatal,31
+2008,Intraestatal internacionalizado,7
+2009,Intraestatal,30
+2009,Intraestatal internacionalizado,7
+2010,Intraestatal,23
+2010,Intraestatal internacionalizado,8
+2011,Interestatal,1
+2011,Intraestatal,27
+2011,Intraestatal internacionalizado,9
+2012,Interestatal,1
+2012,Intraestatal,23
+2012,Intraestatal internacionalizado,9
+2013,Interestatal,1
+2013,Intraestatal,28
+2013,Intraestatal internacionalizado,10
+2014,Interestatal,1
+2014,Intraestatal,28
+2014,Intraestatal internacionalizado,17
+2015,Interestatal,1
+2015,Intraestatal,32
+2015,Intraestatal internacionalizado,21
+2016,Interestatal,2
+2016,Intraestatal,34
+2016,Intraestatal internacionalizado,18
+2017,Interestatal,1
+2017,Intraestatal,30
+2017,Intraestatal internacionalizado,23
+2018,Interestatal,2
+2018,Intraestatal,31
+2018,Intraestatal internacionalizado,19
+2019,Interestatal,2
+2019,Intraestatal,29
+2019,Intraestatal internacionalizado,26
+2020,Interestatal,3
+2020,Intraestatal,27
+2020,Intraestatal internacionalizado,27
+2021,Interestatal,2
+2021,Intraestatal,26
+2021,Intraestatal internacionalizado,26
+2022,Interestatal,3
+2022,Intraestatal,31
+2022,Intraestatal internacionalizado,22
+2023,Interestatal,2
+2023,Intraestatal,36
+2023,Intraestatal internacionalizado,21
+2024,Interestatal,4
+2024,Intraestatal,36
+2024,Intraestatal internacionalizado,19
+2025,Interestatal,8
+2025,Intraestatal,35
+2025,Intraestatal internacionalizado,22

@@ -1,0 +1,1651 @@
+ano,conflict_id,local,mortes
+1989,267,Ethiopia,18403
+1989,275,Ethiopia,5930
+1989,333,Afghanistan,5174
+1989,316,El Salvador,4924
+1989,309,Sudan,4253
+1989,327,Angola,2828
+1989,292,Peru,1827
+1989,332,Mozambique,1614
+1989,221,Myanmar (Burma),1304
+1989,314,Uganda,1019
+1989,351,India,905
+1989,368,"Panama, United States of America",843
+1989,209,Philippines,822
+1989,300,Cambodia (Kampuchea),818
+1989,260,Lebanon,711
+1989,336,Nicaragua,526
+1989,354,Turkey,442
+1989,313,Sri Lanka,388
+1989,337,Somalia,379
+1989,298,South Africa,361
+1989,288,Chad,315
+1989,370,Romania,249
+1989,289,Colombia,238
+1989,331,Morocco,207
+1989,231,Myanmar (Burma),194
+1989,220,Paraguay,150
+1989,352,Sri Lanka,145
+1989,308,Philippines,115
+1989,233,Guatemala,82
+1989,367,Panama,77
+1989,421,India,72
+1989,234,Israel,54
+1989,271,Iraq,50
+1989,381,Haiti,48
+1989,315,United Kingdom,38
+1989,262,Laos,30
+1989,362,Comoros,29
+1989,341,Liberia,27
+1989,322,Bangladesh,26
+1989,218,"India, Pakistan",25
+1989,413,Ethiopia,25
+1990,275,Ethiopia,30633
+1990,267,Ethiopia,18985
+1990,309,Sudan,4335
+1990,352,Sri Lanka,3561
+1990,337,Somalia,2710
+1990,327,Angola,2558
+1990,351,India,1839
+1990,332,Mozambique,1577
+1990,333,Afghanistan,1478
+1990,288,Chad,1352
+1990,209,Philippines,1175
+1990,374,Rwanda,1126
+1990,292,Peru,1099
+1990,371,"Iraq, Kuwait",1058
+1990,316,El Salvador,849
+1990,260,Lebanon,700
+1990,314,Uganda,621
+1990,354,Turkey,526
+1990,289,Colombia,501
+1990,364,India,474
+1990,372,Mali,457
+1990,221,Myanmar (Burma),393
+1990,341,Liberia,347
+1990,300,Cambodia (Kampuchea),274
+1990,262,Laos,249
+1990,377,Russia (Soviet Union),143
+1990,308,Philippines,141
+1990,224,Myanmar (Burma),112
+1990,271,Iraq,94
+1990,233,Guatemala,83
+1990,413,Ethiopia,80
+1990,366,Indonesia,72
+1990,404,Pakistan,70
+1990,313,Sri Lanka,61
+1990,375,Senegal,58
+1990,369,Papua New Guinea,55
+1990,376,Russia (Soviet Union),49
+1990,322,Bangladesh,45
+1990,315,United Kingdom,44
+1990,426,Israel,42
+1990,336,Nicaragua,39
+1990,378,Trinidad and Tobago,39
+1990,205,Iran,31
+1990,365,India,30
+1990,234,Israel,29
+1990,218,"India, Pakistan",28
+1990,222,Myanmar (Burma),25
+1990,231,Myanmar (Burma),25
+1990,421,India,25
+1991,371,"Iraq, Kuwait",21790
+1991,337,Somalia,8005
+1991,275,Ethiopia,6907
+1991,352,Sri Lanka,6432
+1991,267,Ethiopia,4518
+1991,333,Afghanistan,3302
+1991,385,Serbia (Yugoslavia),2958
+1991,351,India,2673
+1991,209,Philippines,1514
+1991,332,Mozambique,1326
+1991,309,Sudan,1317
+1991,271,Iraq,1247
+1991,292,Peru,1138
+1991,314,Uganda,853
+1991,289,Colombia,725
+1991,413,Ethiopia,700
+1991,221,Myanmar (Burma),552
+1991,382,Sierra Leone,552
+1991,327,Angola,491
+1991,354,Turkey,370
+1991,364,India,330
+1991,287,Burundi,272
+1991,259,Iraq,237
+1991,300,Cambodia (Kampuchea),220
+1991,376,Russia (Soviet Union),220
+1991,381,Haiti,160
+1991,374,Rwanda,153
+1991,11475,Myanmar (Burma),150
+1991,11447,Ethiopia,100
+1991,218,"India, Pakistan",99
+1991,316,El Salvador,88
+1991,227,India,78
+1991,233,Guatemala,72
+1991,288,Chad,68
+1991,384,Serbia (Yugoslavia),64
+1991,379,Djibouti,60
+1991,372,Mali,59
+1991,366,Indonesia,58
+1991,380,Georgia,52
+1991,338,Iran,45
+1991,342,Spain,45
+1991,430,Niger,40
+1991,383,Turkey,39
+1991,388,Azerbaijan,35
+1991,386,Algeria,34
+1991,234,Israel,28
+1991,426,Israel,28
+1991,315,United Kingdom,26
+1991,222,Myanmar (Burma),25
+1991,223,Myanmar (Burma),25
+1991,231,Myanmar (Burma),25
+1991,322,Bangladesh,25
+1991,387,Angola,25
+1992,389,Bosnia-Herzegovina,16802
+1992,333,Afghanistan,4276
+1992,352,Sri Lanka,4091
+1992,390,Croatia,4034
+1992,395,Tajikistan,3355
+1992,351,India,2390
+1992,327,Angola,2321
+1992,388,Azerbaijan,2167
+1992,354,Turkey,1663
+1992,289,Colombia,1479
+1992,221,Myanmar (Burma),1163
+1992,337,Somalia,1154
+1992,309,Sudan,1083
+1992,292,Peru,1042
+1992,288,Chad,899
+1992,394,Moldova,585
+1992,392,Georgia,566
+1992,209,Philippines,430
+1992,253,Myanmar (Burma),404
+1992,227,India,322
+1992,332,Mozambique,309
+1992,259,Iraq,280
+1992,364,India,265
+1992,386,Algeria,257
+1992,382,Sierra Leone,218
+1992,413,Ethiopia,165
+1992,385,Serbia (Yugoslavia),153
+1992,277,Venezuela,144
+1992,393,Georgia,134
+1992,379,Djibouti,129
+1992,300,Cambodia (Kampuchea),118
+1992,374,Rwanda,87
+1992,426,Israel,87
+1992,398,Bosnia-Herzegovina,80
+1992,375,Senegal,78
+1992,314,Uganda,72
+1992,380,Georgia,71
+1992,383,Turkey,71
+1992,233,Guatemala,67
+1992,287,Burundi,61
+1992,251,India,47
+1992,330,Indonesia,39
+1992,369,Papua New Guinea,35
+1992,234,Israel,33
+1992,335,India,29
+1992,430,Niger,29
+1992,271,Iraq,26
+1992,218,"India, Pakistan",25
+1992,222,Myanmar (Burma),25
+1992,231,Myanmar (Burma),25
+1992,387,Angola,25
+1993,327,Angola,12054
+1993,398,Bosnia-Herzegovina,7949
+1993,389,Bosnia-Herzegovina,4980
+1993,333,Afghanistan,3721
+1993,354,Turkey,2309
+1993,352,Sri Lanka,2075
+1993,392,Georgia,1611
+1993,395,Tajikistan,1395
+1993,388,Azerbaijan,1171
+1993,309,Sudan,942
+1993,364,India,846
+1993,386,Algeria,800
+1993,292,Peru,672
+1993,390,Croatia,418
+1993,382,Sierra Leone,415
+1993,351,India,358
+1993,374,Rwanda,353
+1993,300,Cambodia (Kampuchea),274
+1993,375,Senegal,233
+1993,397,Bosnia-Herzegovina,231
+1993,227,India,182
+1993,289,Colombia,182
+1993,308,Philippines,154
+1993,380,Georgia,152
+1993,399,Russia (Soviet Union),145
+1993,264,Myanmar (Burma),130
+1993,426,Israel,124
+1993,288,Chad,120
+1993,205,Iran,110
+1993,391,Egypt,103
+1993,209,Philippines,99
+1993,251,India,92
+1993,338,Iran,76
+1993,259,Iraq,75
+1993,396,Azerbaijan,60
+1993,233,Guatemala,58
+1993,408,Congo,53
+1993,234,Israel,47
+1993,329,Ethiopia,36
+1993,369,Papua New Guinea,34
+1993,379,Djibouti,33
+1993,383,Turkey,32
+1993,337,Somalia,25
+1993,347,India,25
+1994,333,Afghanistan,8937
+1994,389,Bosnia-Herzegovina,4873
+1994,354,Turkey,4165
+1994,327,Angola,3925
+1994,386,Algeria,1916
+1994,374,Rwanda,1882
+1994,388,Azerbaijan,1507
+1994,402,Yemen (North Yemen),1489
+1994,397,Bosnia-Herzegovina,1385
+1994,289,Colombia,1123
+1994,364,India,958
+1994,398,Bosnia-Herzegovina,678
+1994,352,Sri Lanka,657
+1994,382,Sierra Leone,628
+1994,264,Myanmar (Burma),526
+1994,300,Cambodia (Kampuchea),464
+1994,395,Tajikistan,356
+1994,309,Sudan,337
+1994,292,Peru,253
+1994,337,Somalia,237
+1994,401,Russia (Soviet Union),229
+1994,308,Philippines,196
+1994,288,Chad,156
+1994,314,Uganda,149
+1994,391,Egypt,145
+1994,400,Mexico,145
+1994,223,Myanmar (Burma),109
+1994,372,Mali,106
+1994,390,Croatia,86
+1994,426,Israel,82
+1994,209,Philippines,69
+1994,227,India,68
+1994,251,India,60
+1994,287,Burundi,56
+1994,329,Ethiopia,50
+1994,373,Niger,50
+1994,387,Angola,50
+1994,234,Israel,44
+1994,218,"India, Pakistan",42
+1994,379,Djibouti,39
+1994,404,Pakistan,38
+1994,233,Guatemala,37
+1994,421,India,36
+1994,259,Iraq,34
+1994,369,Papua New Guinea,26
+1994,221,Myanmar (Burma),25
+1994,222,Myanmar (Burma),25
+1994,347,India,25
+1994,365,India,25
+1994,413,Ethiopia,25
+1995,389,Bosnia-Herzegovina,8061
+1995,333,Afghanistan,5516
+1995,352,Sri Lanka,4755
+1995,354,Turkey,3738
+1995,386,Algeria,3008
+1995,401,Russia (Soviet Union),1754
+1995,382,Sierra Leone,1472
+1995,390,Croatia,1132
+1995,309,Sudan,1000
+1995,289,Colombia,823
+1995,300,Cambodia (Kampuchea),694
+1995,364,India,687
+1995,397,Bosnia-Herzegovina,488
+1995,287,Burundi,382
+1995,395,Tajikistan,368
+1995,259,Iraq,325
+1995,375,Senegal,299
+1995,314,Uganda,295
+1995,271,Iraq,262
+1995,391,Egypt,191
+1995,292,Peru,178
+1995,264,Myanmar (Burma),174
+1995,327,Angola,162
+1995,308,Philippines,116
+1995,221,Myanmar (Burma),110
+1995,337,Somalia,104
+1995,403,"Ecuador, Peru",99
+1995,251,India,95
+1995,426,Israel,74
+1995,404,Pakistan,52
+1995,396,Azerbaijan,44
+1995,209,Philippines,36
+1995,234,Israel,34
+1995,406,Niger,34
+1995,11475,Myanmar (Burma),33
+1995,365,India,29
+1995,369,Papua New Guinea,29
+1995,233,Guatemala,27
+1995,347,India,25
+1995,387,Angola,25
+1995,413,Ethiopia,25
+1996,354,Turkey,3974
+1996,352,Sri Lanka,3868
+1996,333,Afghanistan,3177
+1996,395,Tajikistan,2790
+1996,401,Russia (Soviet Union),2721
+1996,309,Sudan,2289
+1996,283,DR Congo (Zaire),1289
+1996,314,Uganda,1268
+1996,289,Colombia,1197
+1996,386,Algeria,1084
+1996,287,Burundi,987
+1996,300,Cambodia (Kampuchea),788
+1996,382,Sierra Leone,570
+1996,364,India,489
+1996,271,Iraq,356
+1996,337,Somalia,256
+1996,329,Ethiopia,211
+1996,308,Philippines,180
+1996,227,India,173
+1996,253,Myanmar (Burma),124
+1996,374,Rwanda,124
+1996,426,Israel,96
+1996,391,Egypt,85
+1996,224,Myanmar (Burma),80
+1996,292,Peru,80
+1996,369,Papua New Guinea,78
+1996,234,Israel,66
+1996,405,"Cameroon, Nigeria",56
+1996,365,India,48
+1996,269,Nepal,44
+1996,259,Iraq,42
+1996,404,Pakistan,42
+1996,251,India,40
+1996,400,Mexico,37
+1996,218,"India, Pakistan",35
+1996,387,Angola,29
+1996,347,India,28
+1996,205,Iran,27
+1996,264,Myanmar (Burma),25
+1996,363,Ethiopia,25
+1996,421,India,25
+1997,408,Congo,10033
+1997,333,Afghanistan,6396
+1997,283,DR Congo (Zaire),4465
+1997,354,Turkey,3902
+1997,309,Sudan,3709
+1997,352,Sri Lanka,2880
+1997,386,Algeria,1403
+1997,287,Burundi,1159
+1997,374,Rwanda,1086
+1997,314,Uganda,888
+1997,382,Sierra Leone,748
+1997,289,Colombia,568
+1997,364,India,533
+1997,300,Cambodia (Kampuchea),415
+1997,375,Senegal,319
+1997,308,Philippines,270
+1997,264,Myanmar (Burma),152
+1997,422,Myanmar (Burma),130
+1997,218,"India, Pakistan",127
+1997,365,India,112
+1997,288,Chad,97
+1997,292,Peru,93
+1997,426,Israel,88
+1997,395,Tajikistan,87
+1997,227,India,84
+1997,335,India,72
+1997,391,Egypt,66
+1997,430,Niger,62
+1997,330,Indonesia,56
+1997,407,Comoros,56
+1997,387,Angola,51
+1997,221,Myanmar (Burma),41
+1997,269,Nepal,40
+1997,338,Iran,38
+1997,251,India,37
+1997,421,India,34
+1997,209,Philippines,32
+1997,326,Eritrea,31
+1997,388,Azerbaijan,29
+1998,333,Afghanistan,6256
+1998,309,Sudan,4891
+1998,352,Sri Lanka,3762
+1998,283,DR Congo (Zaire),3345
+1998,382,Sierra Leone,3287
+1998,408,Congo,3272
+1998,386,Algeria,3029
+1998,354,Turkey,2074
+1998,412,Serbia (Yugoslavia),1235
+1998,374,Rwanda,1096
+1998,327,Angola,1041
+1998,409,"Eritrea, Ethiopia",1000
+1998,289,Colombia,939
+1998,287,Burundi,843
+1998,314,Uganda,835
+1998,395,Tajikistan,600
+1998,364,India,576
+1998,410,Guinea-Bissau,505
+1998,269,Nepal,250
+1998,300,Cambodia (Kampuchea),246
+1998,375,Senegal,242
+1998,218,"India, Pakistan",147
+1998,227,India,99
+1998,308,Philippines,93
+1998,411,Lesotho,78
+1998,365,India,55
+1998,426,Israel,54
+1998,330,Indonesia,47
+1998,221,Myanmar (Burma),36
+1998,288,Chad,34
+1998,388,Azerbaijan,34
+1998,421,India,31
+1998,315,United Kingdom,29
+1998,391,Egypt,27
+1998,264,Myanmar (Burma),25
+1998,292,Peru,25
+1998,329,Ethiopia,25
+1998,347,India,25
+1998,387,Angola,25
+1998,413,Ethiopia,25
+1999,409,"Eritrea, Ethiopia",47192
+1999,401,Russia (Soviet Union),5769
+1999,333,Afghanistan,4629
+1999,382,Sierra Leone,3153
+1999,283,DR Congo (Zaire),2925
+1999,327,Angola,2273
+1999,289,Colombia,1949
+1999,352,Sri Lanka,1882
+1999,309,Sudan,1408
+1999,412,Serbia (Yugoslavia),1404
+1999,354,Turkey,1363
+1999,386,Algeria,1031
+1999,218,"India, Pakistan",934
+1999,364,India,864
+1999,287,Burundi,781
+1999,413,Ethiopia,683
+1999,408,Congo,626
+1999,288,Chad,394
+1999,314,Uganda,355
+1999,374,Rwanda,315
+1999,410,Guinea-Bissau,199
+1999,366,Indonesia,187
+1999,269,Nepal,156
+1999,227,India,126
+1999,308,Philippines,106
+1999,209,Philippines,93
+1999,414,Russia (Soviet Union),85
+1999,330,Indonesia,77
+1999,292,Peru,75
+1999,415,Uzbekistan,67
+1999,365,India,53
+1999,329,Ethiopia,50
+1999,426,Israel,41
+1999,421,India,33
+1999,335,India,32
+1999,347,India,31
+1999,338,Iran,28
+1999,264,Myanmar (Burma),25
+1999,326,Eritrea,25
+1999,379,Djibouti,25
+2000,409,"Eritrea, Ethiopia",50000
+2000,333,Afghanistan,5235
+2000,401,Russia (Soviet Union),2907
+2000,309,Sudan,2841
+2000,352,Sri Lanka,2525
+2000,364,India,2356
+2000,289,Colombia,1881
+2000,287,Burundi,1529
+2000,308,Philippines,1427
+2000,283,DR Congo (Zaire),1294
+2000,327,Angola,1000
+2000,288,Chad,989
+2000,386,Algeria,947
+2000,415,Uzbekistan,471
+2000,314,Uganda,388
+2000,382,Sierra Leone,382
+2000,366,Indonesia,286
+2000,269,Nepal,268
+2000,218,"India, Pakistan",225
+2000,307,Guinea,217
+2000,227,India,196
+2000,354,Turkey,177
+2000,374,Rwanda,155
+2000,209,Philippines,140
+2000,221,Myanmar (Burma),114
+2000,365,India,87
+2000,234,Israel,77
+2000,264,Myanmar (Burma),69
+2000,335,India,61
+2000,347,India,60
+2000,341,Liberia,57
+2000,375,Senegal,47
+2000,395,Tajikistan,46
+2000,11475,Myanmar (Burma),43
+2000,338,Iran,40
+2000,251,India,30
+2000,383,Turkey,30
+2000,426,Israel,27
+2000,329,Ethiopia,25
+2000,413,Ethiopia,25
+2001,309,Sudan,3408
+2001,333,Afghanistan,2328
+2001,374,Rwanda,2054
+2001,289,Colombia,1864
+2001,418,United States of America,1583
+2001,13692,"Afghanistan, United Kingdom, United States of America",1397
+2001,287,Burundi,1246
+2001,352,Sri Lanka,1144
+2001,327,Angola,1123
+2001,364,India,893
+2001,308,Philippines,859
+2001,401,Russia (Soviet Union),791
+2001,386,Algeria,642
+2001,283,DR Congo (Zaire),454
+2001,307,Guinea,432
+2001,269,Nepal,429
+2001,341,Liberia,341
+2001,366,Indonesia,278
+2001,234,Israel,244
+2001,337,Somalia,228
+2001,288,Chad,226
+2001,416,Central African Republic,195
+2001,314,Uganda,189
+2001,354,Turkey,186
+2001,227,India,173
+2001,209,Philippines,142
+2001,338,Iran,119
+2001,264,Myanmar (Burma),117
+2001,365,India,113
+2001,421,India,77
+2001,417,North Macedonia,72
+2001,11475,Myanmar (Burma),62
+2001,218,"India, Pakistan",48
+2001,382,Sierra Leone,48
+2001,221,Myanmar (Burma),36
+2001,335,India,32
+2001,329,Ethiopia,25
+2001,413,Ethiopia,25
+2002,269,Nepal,3946
+2002,289,Colombia,3387
+2002,309,Sudan,2021
+2002,364,India,1499
+2002,287,Burundi,1293
+2002,401,Russia (Soviet Union),1289
+2002,314,Uganda,1086
+2002,418,United States of America,880
+2002,419,Ivory Coast,661
+2002,234,Israel,613
+2002,386,Algeria,539
+2002,341,Liberia,492
+2002,366,Indonesia,466
+2002,327,Angola,465
+2002,308,Philippines,382
+2002,288,Chad,294
+2002,209,Philippines,280
+2002,218,"India, Pakistan",212
+2002,264,Myanmar (Burma),184
+2002,227,India,179
+2002,408,Congo,167
+2002,416,Central African Republic,131
+2002,337,Somalia,114
+2002,221,Myanmar (Burma),110
+2002,354,Turkey,105
+2002,374,Rwanda,83
+2002,365,India,59
+2002,387,Angola,56
+2002,421,India,44
+2002,335,India,40
+2002,333,Afghanistan,30
+2002,329,Ethiopia,25
+2002,413,Ethiopia,25
+2003,420,"Australia, Iraq, United Kingdom, United States of America",7927
+2003,289,Colombia,2086
+2003,309,Sudan,1999
+2003,341,Liberia,1787
+2003,269,Nepal,1341
+2003,364,India,1328
+2003,287,Burundi,912
+2003,366,Indonesia,868
+2003,308,Philippines,820
+2003,386,Algeria,670
+2003,333,Afghanistan,660
+2003,314,Uganda,642
+2003,401,Russia (Soviet Union),480
+2003,234,Israel,308
+2003,218,"India, Pakistan",237
+2003,209,Philippines,231
+2003,354,Turkey,153
+2003,419,Ivory Coast,140
+2003,421,India,109
+2003,227,India,99
+2003,418,United States of America,65
+2003,326,Eritrea,57
+2003,365,India,43
+2003,375,Senegal,39
+2003,221,Myanmar (Burma),38
+2003,288,Chad,37
+2003,335,India,32
+2003,352,Sri Lanka,29
+2003,347,India,27
+2003,423,Thailand,26
+2003,329,Ethiopia,25
+2003,387,Angola,25
+2003,413,Ethiopia,25
+2004,259,Iraq,4094
+2004,309,Sudan,3278
+2004,269,Nepal,1880
+2004,314,Uganda,1610
+2004,364,India,1404
+2004,289,Colombia,1358
+2004,401,Russia (Soviet Union),1151
+2004,366,Indonesia,935
+2004,333,Afghanistan,711
+2004,386,Algeria,451
+2004,287,Burundi,433
+2004,234,Israel,386
+2004,418,United States of America,378
+2004,354,Turkey,276
+2004,209,Philippines,270
+2004,381,Haiti,207
+2004,423,Thailand,164
+2004,424,Nigeria,84
+2004,227,India,71
+2004,365,India,70
+2004,308,Philippines,69
+2004,425,Nigeria,67
+2004,347,India,60
+2004,419,Ivory Coast,47
+2004,325,Pakistan,43
+2004,415,Uzbekistan,37
+2004,221,Myanmar (Burma),27
+2004,393,Georgia,27
+2004,421,India,27
+2004,335,India,26
+2004,329,Ethiopia,25
+2004,387,Angola,25
+2004,413,Ethiopia,25
+2005,259,Iraq,2608
+2005,333,Afghanistan,1628
+2005,289,Colombia,1562
+2005,269,Nepal,1104
+2005,364,India,1058
+2005,314,Uganda,695
+2005,401,Russia (Soviet Union),682
+2005,354,Turkey,377
+2005,287,Burundi,298
+2005,308,Philippines,236
+2005,209,Philippines,234
+2005,386,Algeria,229
+2005,366,Indonesia,213
+2005,423,Thailand,205
+2005,227,India,199
+2005,309,Sudan,161
+2005,234,Israel,123
+2005,418,United States of America,108
+2005,288,Chad,100
+2005,352,Sri Lanka,88
+2005,365,India,78
+2005,11350,Bangladesh,62
+2005,329,Ethiopia,58
+2005,347,India,47
+2005,221,Myanmar (Burma),42
+2005,11475,Myanmar (Burma),38
+2005,253,Myanmar (Burma),35
+2005,283,DR Congo (Zaire),34
+2005,383,Turkey,30
+2005,338,Iran,28
+2005,264,Myanmar (Burma),27
+2005,388,Azerbaijan,25
+2005,413,Ethiopia,25
+2006,333,Afghanistan,4734
+2006,259,Iraq,3923
+2006,352,Sri Lanka,1970
+2006,288,Chad,1250
+2006,426,Israel,1242
+2006,309,Sudan,1002
+2006,364,India,705
+2006,337,Somalia,547
+2006,227,India,546
+2006,289,Colombia,503
+2006,269,Nepal,457
+2006,234,Israel,407
+2006,354,Turkey,349
+2006,209,Philippines,310
+2006,401,Russia (Soviet Union),259
+2006,386,Algeria,255
+2006,418,United States of America,246
+2006,314,Uganda,221
+2006,423,Thailand,212
+2006,325,Pakistan,200
+2006,283,DR Congo (Zaire),182
+2006,287,Burundi,141
+2006,221,Myanmar (Burma),104
+2006,11475,Myanmar (Burma),92
+2006,347,India,73
+2006,338,Iran,57
+2006,11350,Bangladesh,57
+2006,308,Philippines,50
+2006,365,India,49
+2006,264,Myanmar (Burma),48
+2006,416,Central African Republic,46
+2006,329,Ethiopia,25
+2006,413,Ethiopia,25
+2007,333,Afghanistan,6848
+2007,352,Sri Lanka,2494
+2007,259,Iraq,2212
+2007,337,Somalia,1546
+2007,354,Turkey,664
+2007,404,Pakistan,585
+2007,364,India,550
+2007,283,DR Congo (Zaire),516
+2007,386,Algeria,472
+2007,227,India,377
+2007,289,Colombia,320
+2007,308,Philippines,307
+2007,234,Israel,276
+2007,309,Sudan,217
+2007,11475,Myanmar (Burma),215
+2007,423,Thailand,197
+2007,418,United States of America,186
+2007,329,Ethiopia,152
+2007,401,Russia (Soviet Union),146
+2007,209,Philippines,132
+2007,429,DR Congo (Zaire),116
+2007,365,India,114
+2007,221,Myanmar (Burma),104
+2007,314,Uganda,91
+2007,338,Iran,86
+2007,325,Pakistan,83
+2007,430,Niger,81
+2007,288,Chad,69
+2007,347,India,45
+2007,372,Mali,39
+2007,292,Peru,32
+2007,432,Russia (Soviet Union),30
+2007,264,Myanmar (Burma),29
+2007,387,Angola,25
+2007,413,Ethiopia,25
+2008,352,Sri Lanka,8262
+2008,333,Afghanistan,5655
+2008,404,Pakistan,2998
+2008,259,Iraq,2112
+2008,337,Somalia,1491
+2008,288,Chad,991
+2008,354,Turkey,681
+2008,234,Israel,668
+2008,393,Georgia,621
+2008,309,Sudan,598
+2008,364,India,500
+2008,283,DR Congo (Zaire),486
+2008,432,Russia (Soviet Union),404
+2008,227,India,384
+2008,386,Algeria,339
+2008,308,Philippines,297
+2008,418,United States of America,291
+2008,289,Colombia,282
+2008,429,DR Congo (Zaire),250
+2008,287,Burundi,226
+2008,325,Pakistan,197
+2008,209,Philippines,184
+2008,423,Thailand,130
+2008,338,Iran,121
+2008,372,Mali,112
+2008,347,India,99
+2008,365,India,75
+2008,314,Uganda,53
+2008,430,Niger,47
+2008,292,Peru,40
+2008,11349,China,36
+2008,435,"Djibouti, Eritrea",35
+2008,221,Myanmar (Burma),33
+2008,230,Yemen (North Yemen),33
+2008,264,Myanmar (Burma),31
+2008,388,Azerbaijan,30
+2008,329,Ethiopia,25
+2008,413,Ethiopia,25
+2008,434,India,25
+2009,352,Sri Lanka,10165
+2009,333,Afghanistan,6390
+2009,404,Pakistan,6303
+2009,374,Rwanda,1807
+2009,337,Somalia,1467
+2009,230,Yemen (North Yemen),1413
+2009,259,Iraq,1036
+2009,432,Russia (Soviet Union),697
+2009,234,Israel,696
+2009,227,India,522
+2009,308,Philippines,517
+2009,386,Algeria,505
+2009,418,United States of America,493
+2009,329,Ethiopia,473
+2009,297,Nigeria,405
+2009,289,Colombia,388
+2009,209,Philippines,377
+2009,364,India,361
+2009,309,Sudan,353
+2009,314,Uganda,238
+2009,354,Turkey,219
+2009,423,Thailand,138
+2009,338,Iran,133
+2009,288,Chad,131
+2009,347,India,96
+2009,11347,Mali,87
+2009,325,Pakistan,81
+2009,439,Myanmar (Burma),80
+2009,421,India,73
+2009,221,Myanmar (Burma),63
+2009,365,India,63
+2009,264,Myanmar (Burma),52
+2009,292,Peru,50
+2009,413,Ethiopia,42
+2009,372,Mali,39
+2009,416,Central African Republic,28
+2009,387,Angola,25
+2010,333,Afghanistan,7038
+2010,404,Pakistan,5574
+2010,337,Somalia,2150
+2010,309,Sudan,1010
+2010,259,Iraq,989
+2010,230,Yemen (North Yemen),716
+2010,227,India,569
+2010,289,Colombia,419
+2010,432,Russia (Soviet Union),418
+2010,364,India,370
+2010,354,Turkey,356
+2010,418,United States of America,329
+2010,209,Philippines,258
+2010,386,Algeria,236
+2010,374,Rwanda,212
+2010,314,Uganda,138
+2010,329,Ethiopia,126
+2010,221,Myanmar (Burma),121
+2010,395,Tajikistan,98
+2010,423,Thailand,76
+2010,308,Philippines,74
+2010,338,Iran,74
+2010,421,India,57
+2010,288,Chad,42
+2010,264,Myanmar (Burma),36
+2010,365,India,32
+2010,442,Mauritania,29
+2010,292,Peru,28
+2010,234,Israel,27
+2010,413,Ethiopia,25
+2010,416,Central African Republic,25
+2011,333,Afghanistan,7423
+2011,11346,Libya,3762
+2011,404,Pakistan,2598
+2011,337,Somalia,1938
+2011,230,Yemen (North Yemen),1699
+2011,309,Sudan,1259
+2011,299,Syria,1203
+2011,259,Iraq,864
+2011,354,Turkey,558
+2011,432,Russia (Soviet Union),359
+2011,221,Myanmar (Burma),334
+2011,297,Nigeria,325
+2011,227,India,299
+2011,386,Algeria,267
+2011,338,Iran,242
+2011,11345,South Sudan,216
+2011,231,Myanmar (Burma),209
+2011,209,Philippines,204
+2011,418,United States of America,203
+2011,289,Colombia,202
+2011,264,Myanmar (Burma),170
+2011,308,Philippines,146
+2011,11344,Sudan,145
+2011,423,Thailand,143
+2011,364,India,140
+2011,314,Uganda,136
+2011,374,Rwanda,116
+2011,419,Ivory Coast,98
+2011,283,DR Congo (Zaire),82
+2011,234,Israel,78
+2011,416,Central African Republic,44
+2011,325,Pakistan,42
+2011,294,"Cambodia (Kampuchea), Thailand",29
+2011,395,Tajikistan,28
+2011,329,Ethiopia,25
+2011,375,Senegal,25
+2011,413,Ethiopia,25
+2012,299,Syria,50444
+2012,333,Afghanistan,7730
+2012,404,Pakistan,2673
+2012,337,Somalia,2646
+2012,230,Yemen (North Yemen),2450
+2012,309,Sudan,1173
+2012,354,Turkey,853
+2012,297,Nigeria,811
+2012,283,DR Congo (Zaire),734
+2012,231,Myanmar (Burma),702
+2012,259,Iraq,565
+2012,432,Russia (Soviet Union),516
+2012,11348,"South Sudan, Sudan",367
+2012,386,Algeria,256
+2012,227,India,245
+2012,234,Israel,235
+2012,418,United States of America,225
+2012,289,Colombia,211
+2012,209,Philippines,182
+2012,364,India,144
+2012,11345,South Sudan,137
+2012,372,Mali,131
+2012,423,Thailand,131
+2012,325,Pakistan,118
+2012,308,Philippines,113
+2012,11347,Mali,87
+2012,374,Rwanda,83
+2012,13042,Syria,46
+2012,416,Central African Republic,45
+2012,11342,India,27
+2012,329,Ethiopia,25
+2012,388,Azerbaijan,25
+2012,413,Ethiopia,25
+2013,299,Syria,70516
+2013,333,Afghanistan,8048
+2013,259,Iraq,1872
+2013,404,Pakistan,1729
+2013,297,Nigeria,1629
+2013,13604,Syria,1422
+2013,283,DR Congo (Zaire),1380
+2013,337,Somalia,940
+2013,11345,South Sudan,926
+2013,11347,Mali,836
+2013,309,Sudan,594
+2013,230,Yemen (North Yemen),582
+2013,416,Central African Republic,376
+2013,308,Philippines,349
+2013,432,Russia (Soviet Union),321
+2013,227,India,215
+2013,423,Thailand,189
+2013,209,Philippines,165
+2013,386,Algeria,147
+2013,364,India,146
+2013,289,Colombia,140
+2013,231,Myanmar (Burma),125
+2013,314,Uganda,100
+2013,265,DR Congo (Zaire),94
+2013,264,Myanmar (Burma),83
+2013,13042,Syria,78
+2013,11487,Malaysia,70
+2013,329,Ethiopia,52
+2013,325,Pakistan,45
+2013,332,Mozambique,42
+2013,221,Myanmar (Burma),41
+2013,418,United States of America,38
+2013,354,Turkey,32
+2013,218,"India, Pakistan",31
+2013,11346,Libya,31
+2013,222,Myanmar (Burma),29
+2013,343,Tunisia,29
+2013,421,India,28
+2013,413,Ethiopia,25
+2014,299,Syria,57957
+2014,259,Iraq,13797
+2014,333,Afghanistan,12351
+2014,13604,Syria,7336
+2014,297,Nigeria,4788
+2014,404,Pakistan,2947
+2014,234,Israel,2378
+2014,13246,Ukraine,2277
+2014,230,Yemen (North Yemen),1855
+2014,11345,South Sudan,1667
+2014,13306,Ukraine,1462
+2014,337,Somalia,1153
+2014,13247,Ukraine,1072
+2014,314,Uganda,864
+2014,309,Sudan,856
+2014,308,Philippines,280
+2014,11346,Libya,274
+2014,227,India,198
+2014,209,Philippines,190
+2014,391,Egypt,184
+2014,364,India,179
+2014,432,Russia (Soviet Union),173
+2014,418,United States of America,138
+2014,416,Central African Republic,136
+2014,13675,Lebanon,126
+2014,289,Colombia,119
+2014,386,Algeria,107
+2014,11347,Mali,95
+2014,372,Mali,94
+2014,325,Pakistan,90
+2014,13219,Ukraine,88
+2014,283,DR Congo (Zaire),86
+2014,231,Myanmar (Burma),83
+2014,423,Thailand,68
+2014,439,Myanmar (Burma),67
+2014,265,DR Congo (Zaire),60
+2014,287,Burundi,56
+2014,13042,Syria,52
+2014,343,Tunisia,50
+2014,218,"India, Pakistan",49
+2014,388,Azerbaijan,46
+2014,421,India,39
+2014,222,Myanmar (Burma),37
+2014,332,Mozambique,30
+2014,11342,India,26
+2014,329,Ethiopia,25
+2015,299,Syria,39715
+2015,333,Afghanistan,16606
+2015,259,Iraq,10982
+2015,13604,Syria,10382
+2015,230,Yemen (North Yemen),7559
+2015,297,Nigeria,2703
+2015,13641,Nigeria,2063
+2015,404,Pakistan,1954
+2015,13306,Ukraine,1894
+2015,309,Sudan,1264
+2015,337,Somalia,1206
+2015,354,Turkey,906
+2015,13648,Egypt,767
+2015,353,Cameroon,712
+2015,13637,Afghanistan,679
+2015,11345,South Sudan,493
+2015,308,Philippines,404
+2015,439,Myanmar (Burma),309
+2015,13638,Cameroon,283
+2015,13645,Yemen (North Yemen),283
+2015,13640,Chad,272
+2015,314,Uganda,197
+2015,287,Burundi,185
+2015,13639,Niger,171
+2015,209,Philippines,168
+2015,364,India,165
+2015,13653,India,161
+2015,11346,Libya,156
+2015,227,India,146
+2015,231,Myanmar (Burma),142
+2015,289,Colombia,134
+2015,13694,Libya,118
+2015,325,Pakistan,107
+2015,222,Myanmar (Burma),106
+2015,418,United States of America,87
+2015,386,Algeria,84
+2015,13042,Syria,84
+2015,264,Myanmar (Burma),77
+2015,13675,Lebanon,76
+2015,11347,Mali,74
+2015,388,Azerbaijan,72
+2015,218,"India, Pakistan",63
+2015,343,Tunisia,59
+2015,423,Thailand,57
+2015,13588,Russia (Soviet Union),55
+2015,372,Mali,54
+2015,13611,Mali,44
+2015,13646,Kenya,42
+2015,432,Russia (Soviet Union),30
+2015,15283,Central African Republic,27
+2015,13721,Algeria,26
+2015,13902,Turkey,26
+2015,329,Ethiopia,25
+2015,413,Ethiopia,25
+2016,299,Syria,32595
+2016,333,Afghanistan,15775
+2016,13604,Syria,10903
+2016,259,Iraq,9775
+2016,230,Yemen (North Yemen),3275
+2016,13641,Nigeria,2287
+2016,13637,Afghanistan,2141
+2016,337,Somalia,1933
+2016,13694,Libya,1678
+2016,309,Sudan,1309
+2016,13902,Turkey,1107
+2016,354,Turkey,1074
+2016,11345,South Sudan,735
+2016,13306,Ukraine,697
+2016,404,Pakistan,526
+2016,283,DR Congo (Zaire),506
+2016,383,Turkey,434
+2016,13648,Egypt,355
+2016,308,Philippines,303
+2016,364,India,282
+2016,13639,Niger,274
+2016,227,India,268
+2016,13638,Cameroon,189
+2016,297,Nigeria,164
+2016,14275,Philippines,155
+2016,13809,Syria,152
+2016,314,Uganda,142
+2016,388,Azerbaijan,141
+2016,374,Rwanda,136
+2016,418,United States of America,117
+2016,218,"India, Pakistan",100
+2016,11347,Mali,97
+2016,325,Pakistan,94
+2016,209,Philippines,92
+2016,223,Myanmar (Burma),86
+2016,386,Algeria,86
+2016,408,Congo,73
+2016,14333,Tunisia,71
+2016,13588,Russia (Soviet Union),69
+2016,13936,Pakistan,68
+2016,332,Mozambique,55
+2016,423,Thailand,50
+2016,13646,Kenya,49
+2016,13653,India,47
+2016,13674,Bangladesh,41
+2016,13886,Jordan,34
+2016,231,Myanmar (Burma),32
+2016,353,Cameroon,32
+2016,205,Iran,30
+2016,289,Colombia,30
+2016,329,Ethiopia,25
+2016,387,Angola,25
+2016,409,"Eritrea, Ethiopia",25
+2016,413,Ethiopia,25
+2017,333,Afghanistan,16179
+2017,299,Syria,12206
+2017,13604,Syria,11920
+2017,259,Iraq,10012
+2017,283,DR Congo (Zaire),3309
+2017,230,Yemen (North Yemen),3209
+2017,13637,Afghanistan,2795
+2017,337,Somalia,1918
+2017,14275,Philippines,1363
+2017,297,Nigeria,1062
+2017,13641,Nigeria,817
+2017,354,Turkey,756
+2017,13902,Turkey,750
+2017,404,Pakistan,506
+2017,11345,South Sudan,484
+2017,13306,Ukraine,447
+2017,13648,Egypt,394
+2017,223,Myanmar (Burma),393
+2017,364,India,322
+2017,11347,Mali,312
+2017,11346,Libya,308
+2017,227,India,245
+2017,13639,Niger,229
+2017,209,Philippines,177
+2017,309,Sudan,160
+2017,218,"India, Pakistan",151
+2017,314,Uganda,141
+2017,418,United States of America,111
+2017,391,Egypt,103
+2017,13694,Libya,96
+2017,14692,DR Congo (Zaire),96
+2017,429,DR Congo (Zaire),86
+2017,13646,Kenya,85
+2017,308,Philippines,84
+2017,13936,Pakistan,80
+2017,13675,Lebanon,70
+2017,353,Cameroon,63
+2017,386,Algeria,60
+2017,13640,Chad,57
+2017,13588,Russia (Soviet Union),53
+2017,13674,Bangladesh,47
+2017,14113,Mali,47
+2017,222,Myanmar (Burma),46
+2017,289,Colombia,44
+2017,231,Myanmar (Burma),43
+2017,423,Thailand,43
+2017,13653,India,39
+2017,388,Azerbaijan,36
+2017,416,Central African Republic,35
+2017,439,Myanmar (Burma),35
+2017,14129,Cameroon,35
+2017,14268,Iran,27
+2017,13645,Yemen (North Yemen),26
+2017,387,Angola,25
+2018,333,Afghanistan,22837
+2018,299,Syria,8690
+2018,230,Yemen (North Yemen),4706
+2018,13604,Syria,4347
+2018,13637,Afghanistan,2842
+2018,337,Somalia,2083
+2018,354,Turkey,940
+2018,259,Iraq,866
+2018,13641,Nigeria,836
+2018,14129,Cameroon,754
+2018,13648,Egypt,652
+2018,11345,South Sudan,526
+2018,283,DR Congo (Zaire),439
+2018,11347,Mali,402
+2018,364,India,386
+2018,14692,DR Congo (Zaire),378
+2018,297,Nigeria,335
+2018,227,India,309
+2018,309,Sudan,243
+2018,13306,Ukraine,243
+2018,14275,Philippines,193
+2018,289,Colombia,191
+2018,404,Pakistan,147
+2018,209,Philippines,144
+2018,218,"India, Pakistan",129
+2018,14074,Somalia,121
+2018,14113,Mali,119
+2018,14609,"Iran, Israel",111
+2018,13640,Chad,108
+2018,416,Central African Republic,103
+2018,308,Philippines,83
+2018,360,Burkina Faso,79
+2018,13639,Niger,74
+2018,13646,Kenya,69
+2018,234,Israel,53
+2018,16292,Tajikistan,52
+2018,332,Mozambique,51
+2018,13936,Pakistan,51
+2018,222,Myanmar (Burma),46
+2018,205,Iran,44
+2018,13694,Libya,44
+2018,288,Chad,42
+2018,423,Thailand,36
+2018,13809,Syria,35
+2018,386,Algeria,33
+2018,13588,Russia (Soviet Union),30
+2018,291,Indonesia,28
+2018,338,Iran,28
+2018,391,Egypt,28
+2018,223,Myanmar (Burma),27
+2018,13653,India,27
+2018,231,Myanmar (Burma),26
+2019,333,Afghanistan,28828
+2019,299,Syria,6856
+2019,230,Yemen (North Yemen),2637
+2019,337,Somalia,1910
+2019,11346,Libya,1588
+2019,13637,Afghanistan,1075
+2019,13641,Nigeria,1013
+2019,354,Turkey,630
+2019,13648,Egypt,589
+2019,14129,Cameroon,558
+2019,13604,Syria,523
+2019,259,Iraq,498
+2019,223,Myanmar (Burma),480
+2019,11347,Mali,422
+2019,14692,DR Congo (Zaire),335
+2019,297,Nigeria,328
+2019,13306,Ukraine,311
+2019,13639,Niger,283
+2019,360,Burkina Faso,271
+2019,364,India,267
+2019,374,Rwanda,226
+2019,227,India,216
+2019,14845,Mozambique,194
+2019,14113,Mali,181
+2019,283,DR Congo (Zaire),179
+2019,218,"India, Pakistan",164
+2019,404,Pakistan,148
+2019,13640,Chad,144
+2019,289,Colombia,140
+2019,209,Philippines,138
+2019,14609,"Iran, Israel",138
+2019,14275,Philippines,136
+2019,13638,Cameroon,135
+2019,11345,South Sudan,110
+2019,332,Mozambique,97
+2019,13840,Burkina Faso,78
+2019,287,Burundi,61
+2019,13646,Kenya,61
+2019,423,Thailand,55
+2019,416,Central African Republic,51
+2019,234,Israel,50
+2019,222,Myanmar (Burma),49
+2019,16292,Tajikistan,49
+2019,391,Egypt,48
+2019,13694,Libya,43
+2019,413,Ethiopia,40
+2019,325,Pakistan,37
+2019,418,United States of America,37
+2019,308,Philippines,35
+2019,291,Indonesia,34
+2019,14197,Somalia,33
+2019,338,Iran,31
+2019,231,Myanmar (Burma),29
+2019,13936,Pakistan,29
+2019,14935,Ethiopia,27
+2019,13588,Russia (Soviet Union),26
+2019,387,Angola,25
+2020,267,Ethiopia,20888
+2020,333,Afghanistan,20159
+2020,388,Azerbaijan,7538
+2020,230,Yemen (North Yemen),6260
+2020,299,Syria,3513
+2020,337,Somalia,1901
+2020,13641,Nigeria,1559
+2020,13604,Syria,1076
+2020,14845,Mozambique,939
+2020,259,Iraq,674
+2020,11346,Libya,668
+2020,14692,DR Congo (Zaire),644
+2020,13648,Egypt,527
+2020,11347,Mali,520
+2020,13639,Niger,512
+2020,297,Nigeria,465
+2020,14609,"Iran, Israel",461
+2020,354,Turkey,431
+2020,14129,Cameroon,401
+2020,360,Burkina Faso,352
+2020,13637,Afghanistan,316
+2020,364,India,311
+2020,283,DR Congo (Zaire),224
+2020,13306,Ukraine,196
+2020,404,Pakistan,186
+2020,223,Myanmar (Burma),170
+2020,209,Philippines,165
+2020,218,"India, Pakistan",162
+2020,13840,Burkina Faso,160
+2020,227,India,153
+2020,13640,Chad,143
+2020,287,Burundi,139
+2020,374,Rwanda,134
+2020,325,Pakistan,120
+2020,308,Philippines,108
+2020,13646,Kenya,94
+2020,14275,Philippines,75
+2020,429,DR Congo (Zaire),64
+2020,14113,Mali,63
+2020,11345,South Sudan,58
+2020,416,Central African Republic,57
+2020,265,DR Congo (Zaire),54
+2020,288,Chad,53
+2020,423,Thailand,46
+2020,309,Sudan,45
+2020,14197,Somalia,41
+2020,338,Iran,35
+2020,13645,Yemen (North Yemen),33
+2020,291,Indonesia,31
+2020,13588,Russia (Soviet Union),30
+2020,289,Colombia,28
+2020,353,Cameroon,28
+2020,413,Ethiopia,28
+2020,386,Algeria,26
+2020,274,"China, India",25
+2020,387,Angola,25
+2020,15183,Tanzania,25
+2021,267,Ethiopia,124266
+2021,333,Afghanistan,35329
+2021,230,Yemen (North Yemen),23360
+2021,337,Somalia,2119
+2021,13641,Nigeria,1597
+2021,416,Central African Republic,906
+2021,14845,Mozambique,867
+2021,360,Burkina Faso,821
+2021,259,Iraq,707
+2021,222,Myanmar (Burma),684
+2021,13604,Syria,680
+2021,299,Syria,676
+2021,11347,Mali,616
+2021,14692,DR Congo (Zaire),616
+2021,14129,Cameroon,519
+2021,354,Turkey,493
+2021,288,Chad,431
+2021,283,DR Congo (Zaire),401
+2021,13639,Niger,380
+2021,413,Ethiopia,283
+2021,297,Nigeria,276
+2021,234,Israel,269
+2021,13637,Afghanistan,264
+2021,404,Pakistan,259
+2021,364,India,250
+2021,13306,Ukraine,208
+2021,209,Philippines,195
+2021,11345,South Sudan,188
+2021,227,India,181
+2021,13840,Burkina Faso,170
+2021,14609,"Iran, Israel",166
+2021,231,Myanmar (Burma),136
+2021,303,Nigeria,132
+2021,325,Pakistan,129
+2021,289,Colombia,115
+2021,13648,Egypt,112
+2021,14113,Mali,110
+2021,221,Myanmar (Burma),78
+2021,13646,Kenya,78
+2021,430,Niger,76
+2021,439,Myanmar (Burma),71
+2021,14275,Philippines,71
+2021,253,Myanmar (Burma),62
+2021,13638,Cameroon,62
+2021,13324,"Kyrgyzstan, Tajikistan",56
+2021,13640,Chad,55
+2021,14197,Somalia,53
+2021,291,Indonesia,52
+2021,388,Azerbaijan,40
+2021,423,Thailand,38
+2021,309,Sudan,31
+2021,338,Iran,30
+2021,287,Burundi,26
+2021,13936,Pakistan,26
+2022,267,Ethiopia,162453
+2022,13243,"Russia (Soviet Union), Ukraine",99473
+2022,337,Somalia,3034
+2022,230,Yemen (North Yemen),2920
+2022,360,Burkina Faso,1703
+2022,222,Myanmar (Burma),1313
+2022,11347,Mali,1117
+2022,13641,Nigeria,1052
+2022,14692,DR Congo (Zaire),914
+2022,413,Ethiopia,766
+2022,354,Turkey,760
+2022,333,Afghanistan,689
+2022,416,Central African Republic,675
+2022,299,Syria,563
+2022,283,DR Congo (Zaire),544
+2022,404,Pakistan,494
+2022,297,Nigeria,428
+2022,13840,Burkina Faso,402
+2022,14845,Mozambique,378
+2022,14129,Cameroon,375
+2022,13604,Syria,348
+2022,259,Iraq,340
+2022,13639,Niger,323
+2022,14113,Mali,323
+2022,388,Azerbaijan,308
+2022,231,Myanmar (Burma),276
+2022,13637,Afghanistan,258
+2022,287,Burundi,242
+2022,221,Myanmar (Burma),241
+2022,364,India,235
+2022,13648,Egypt,231
+2022,209,Philippines,167
+2022,430,Niger,165
+2022,325,Pakistan,154
+2022,13324,"Kyrgyzstan, Tajikistan",150
+2022,223,Myanmar (Burma),134
+2022,289,Colombia,122
+2022,234,Israel,84
+2022,303,Nigeria,84
+2022,227,India,75
+2022,253,Myanmar (Burma),74
+2022,13646,Kenya,72
+2022,13306,Ukraine,57
+2022,14609,"Iran, Israel",56
+2022,14275,Philippines,53
+2022,309,Sudan,47
+2022,291,Indonesia,46
+2022,13640,Chad,35
+2022,358,Togo,34
+2022,353,Cameroon,31
+2022,15256,Benin,30
+2022,423,Thailand,29
+2022,13936,Pakistan,29
+2022,374,Rwanda,25
+2022,387,Angola,25
+2022,15438,Uganda,25
+2023,13243,"Russia (Soviet Union), Ukraine",76254
+2023,234,Israel,26789
+2023,309,Sudan,11760
+2023,360,Burkina Faso,3989
+2023,337,Somalia,3859
+2023,222,Myanmar (Burma),1690
+2023,13641,Nigeria,1545
+2023,16069,Ethiopia,1255
+2023,299,Syria,1001
+2023,11347,Mali,886
+2023,404,Pakistan,872
+2023,13840,Burkina Faso,817
+2023,230,Yemen (North Yemen),808
+2023,297,Nigeria,464
+2023,413,Ethiopia,464
+2023,388,Azerbaijan,462
+2023,13604,Syria,459
+2023,354,Turkey,386
+2023,14692,DR Congo (Zaire),348
+2023,231,Myanmar (Burma),293
+2023,13639,Niger,247
+2023,416,Central African Republic,230
+2023,259,Iraq,203
+2023,283,DR Congo (Zaire),202
+2023,13646,Kenya,196
+2023,14129,Cameroon,193
+2023,221,Myanmar (Burma),191
+2023,14113,Mali,182
+2023,14845,Mozambique,176
+2023,16038,Mali,170
+2023,209,Philippines,164
+2023,13637,Afghanistan,163
+2023,14609,"Iran, Israel",160
+2023,253,Myanmar (Burma),150
+2023,426,Israel,139
+2023,374,Rwanda,132
+2023,364,India,119
+2023,303,Nigeria,116
+2023,353,Cameroon,113
+2023,325,Pakistan,110
+2023,399,Russia (Soviet Union),97
+2023,227,India,96
+2023,287,Burundi,93
+2023,289,Colombia,89
+2023,13936,Pakistan,86
+2023,223,Myanmar (Burma),80
+2023,14275,Philippines,79
+2023,333,Afghanistan,78
+2023,288,Chad,61
+2023,291,Indonesia,59
+2023,13638,Cameroon,53
+2023,439,Myanmar (Burma),49
+2023,430,Niger,48
+2023,13809,Syria,40
+2023,338,Iran,34
+2023,15283,Central African Republic,31
+2023,423,Thailand,30
+2023,358,Togo,29
+2023,15256,Benin,28
+2024,13243,"Russia (Soviet Union), Ukraine",102120
+2024,234,Israel,21595
+2024,309,Sudan,4684
+2024,426,Israel,4362
+2024,337,Somalia,2191
+2024,16069,Ethiopia,2191
+2024,360,Burkina Faso,2136
+2024,299,Syria,1459
+2024,404,Pakistan,1305
+2024,222,Myanmar (Burma),1232
+2024,13641,Nigeria,1163
+2024,283,DR Congo (Zaire),909
+2024,230,Yemen (North Yemen),779
+2024,11347,Mali,760
+2024,413,Ethiopia,685
+2024,13604,Syria,629
+2024,14609,"Iran, Israel",549
+2024,223,Myanmar (Burma),515
+2024,13639,Niger,485
+2024,430,Niger,440
+2024,227,India,326
+2024,325,Pakistan,318
+2024,231,Myanmar (Burma),283
+2024,354,Turkey,239
+2024,289,Colombia,226
+2024,297,Nigeria,222
+2024,259,Iraq,217
+2024,381,Haiti,217
+2024,303,Nigeria,194
+2024,221,Myanmar (Burma),177
+2024,416,Central African Republic,177
+2024,14129,Cameroon,168
+2024,14845,Mozambique,151
+2024,14692,DR Congo (Zaire),150
+2024,209,Philippines,133
+2024,16099,"United Kingdom, United States of America, Yemen (North Yemen)",130
+2024,14113,Mali,128
+2024,16038,Mali,123
+2024,338,Iran,113
+2024,364,India,112
+2024,13637,Afghanistan,105
+2024,439,Myanmar (Burma),99
+2024,13809,Syria,78
+2024,15256,Benin,77
+2024,353,Cameroon,63
+2024,13840,Burkina Faso,63
+2024,11639,"Afghanistan, Pakistan",61
+2024,287,Burundi,60
+2024,291,Indonesia,57
+2024,13588,Russia (Soviet Union),53
+2024,13646,Kenya,52
+2024,358,Togo,46
+2024,374,Rwanda,44
+2024,14275,Philippines,43
+2024,423,Thailand,34
+2024,333,Afghanistan,29
+2024,253,Myanmar (Burma),28
+2024,399,Russia (Soviet Union),28
+2024,387,Angola,25
+2025,13243,"Russia (Soviet Union), Ukraine",94741
+2025,234,Israel,14434
+2025,309,Sudan,12269
+2025,283,DR Congo (Zaire),4428
+2025,16069,Ethiopia,3835
+2025,337,Somalia,2989
+2025,360,Burkina Faso,2939
+2025,404,Pakistan,2511
+2025,13641,Nigeria,1662
+2025,222,Myanmar (Burma),1353
+2025,14609,"Iran, Israel",1222
+2025,381,Haiti,1211
+2025,11347,Mali,1086
+2025,16099,"United Kingdom, United States of America, Yemen (North Yemen)",781
+2025,13639,Niger,535
+2025,325,Pakistan,526
+2025,299,Syria,500
+2025,413,Ethiopia,477
+2025,230,Yemen (North Yemen),444
+2025,227,India,417
+2025,426,Israel,337
+2025,289,Colombia,298
+2025,223,Myanmar (Burma),286
+2025,11345,South Sudan,282
+2025,294,"Cambodia (Kampuchea), Thailand",252
+2025,14845,Mozambique,245
+2025,231,Myanmar (Burma),220
+2025,416,Central African Republic,197
+2025,297,Nigeria,195
+2025,14113,Mali,189
+2025,11639,"Afghanistan, Pakistan",178
+2025,13809,Syria,171
+2025,430,Niger,167
+2025,16470,"Israel, Yemen (North Yemen)",164
+2025,221,Myanmar (Burma),151
+2025,15256,Benin,149
+2025,209,Philippines,141
+2025,14129,Cameroon,133
+2025,14197,Somalia,106
+2025,291,Indonesia,104
+2025,364,India,93
+2025,13840,Burkina Faso,92
+2025,16038,Mali,82
+2025,259,Iraq,77
+2025,253,Myanmar (Burma),73
+2025,358,Togo,69
+2025,218,"India, Pakistan",67
+2025,13638,Cameroon,62
+2025,374,Rwanda,60
+2025,13637,Afghanistan,56
+2025,354,Turkey,55
+2025,13936,Pakistan,54
+2025,338,Iran,52
+2025,332,Mozambique,51
+2025,303,Nigeria,48
+2025,353,Cameroon,45
+2025,13646,Kenya,44
+2025,423,Thailand,36
+2025,14692,DR Congo (Zaire),36
+2025,302,"Israel, Syria",35
+2025,13604,Syria,29
+2025,13653,India,27
+2025,333,Afghanistan,25
+2025,387,Angola,25
+2025,402,Yemen (North Yemen),25

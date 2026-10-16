@@ -1,0 +1,11 @@
+# Dados brutos: grandes (~270 MB) e baixados de novo por `python -m src.download`.
+# O manifesto fica versionado porque registra URL, versão e data de acesso de cada base.
+data/raw/*
+!data/raw/_manifesto.json
+
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+desktop.ini
+.DS_Store

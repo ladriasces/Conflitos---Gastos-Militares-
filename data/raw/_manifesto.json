@@ -1,0 +1,116 @@
+{
+  "banco_mundial_MS.MIL.XPND.CD": {
+    "data_acesso": "2026-10-13",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000&date=1960%3A2030",
+    "arquivo": "wb_MS.MIL.XPND.CD.json",
+    "versao": "WDI, atualização 2026-10-08"
+  },
+  "banco_mundial_MS.MIL.XPND.GD.ZS": {
+    "data_acesso": "2026-10-13",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.GD.ZS?format=json&per_page=20000&date=1960%3A2030",
+    "arquivo": "wb_MS.MIL.XPND.GD.ZS.json",
+    "versao": "WDI, atualização 2026-10-08"
+  },
+  "banco_mundial_paises": {
+    "data_acesso": "2026-10-13",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+    "arquivo": "wb_paises.json",
+    "versao": "metadados de países"
+  },
+  "sipri_milex": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2025.xlsx",
+    "arquivo": "SIPRI-Milex-data-1949-2025.xlsx",
+    "versao": "SIPRI Military Expenditure Database 1949-2025 (arquivo de Sun, 26 Apr 2026 20:28:08 GMT)"
+  },
+  "ucdp_acd": {
+    "data_acesso": "2026-10-13",
+    "url": "https://ucdp.uu.se/downloads/ucdpprio/ucdp-prio-acd-261-csv.zip",
+    "arquivo": "ucdp_acd/UcdpPrioConflict_v26_1.csv",
+    "versao": "UCDP versão 26.1"
+  },
+  "ucdp_brd": {
+    "data_acesso": "2026-10-13",
+    "url": "https://ucdp.uu.se/downloads/brd/ucdp-brd-conf-261-csv.zip",
+    "arquivo": "ucdp_brd/BattleDeaths_v26_1_conf.csv",
+    "versao": "UCDP versão 26.1"
+  },
+  "sipri_tiv_exportadores": {
+    "data_acesso": "2026-10-13",
+    "url": "https://armstransfers.sipri.org/ArmsTransfer/ImportExport",
+    "arquivo": "sipri_tiv_exportadores.csv",
+    "versao": "SIPRI Arms Transfers Database, 1992-2025. Data generated: 13 Oct 2026 9:51:01 PM"
+  },
+  "sipri_tiv_importadores": {
+    "data_acesso": "2026-10-13",
+    "url": "https://armstransfers.sipri.org/ArmsTransfer/ImportExport",
+    "arquivo": "sipri_tiv_importadores.csv",
+    "versao": "SIPRI Arms Transfers Database, 1992-2025. Data generated: 13 Oct 2026 9:51:04 PM"
+  },
+  "sinesp_2015": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2015.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2015.xlsx",
+    "versao": "Sinesp VDE 2015 (arquivo de s/d)"
+  },
+  "sinesp_2016": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2016.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2016.xlsx",
+    "versao": "Sinesp VDE 2016 (arquivo de s/d)"
+  },
+  "sinesp_2017": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2017.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2017.xlsx",
+    "versao": "Sinesp VDE 2017 (arquivo de s/d)"
+  },
+  "sinesp_2018": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2018.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2018.xlsx",
+    "versao": "Sinesp VDE 2018 (arquivo de s/d)"
+  },
+  "sinesp_2019": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2019.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2019.xlsx",
+    "versao": "Sinesp VDE 2019 (arquivo de s/d)"
+  },
+  "sinesp_2020": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2020.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2020.xlsx",
+    "versao": "Sinesp VDE 2020 (arquivo de s/d)"
+  },
+  "sinesp_2022": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2022.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2022.xlsx",
+    "versao": "Sinesp VDE 2022 (arquivo de s/d)"
+  },
+  "sinesp_2023": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2023.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2023.xlsx",
+    "versao": "Sinesp VDE 2023 (arquivo de s/d)"
+  },
+  "sinesp_2024": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2024.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2024.xlsx",
+    "versao": "Sinesp VDE 2024 (arquivo de s/d)"
+  },
+  "sinesp_2025": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2025.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2025.xlsx",
+    "versao": "Sinesp VDE 2025 (arquivo de s/d)"
+  },
+  "sinesp_2021": {
+    "data_acesso": "2026-10-13",
+    "url": "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/estatistica/download/dnsp-base-de-dados/bancovde-2021.xlsx/@@download/file",
+    "arquivo": "sinesp/bancovde-2021.xlsx",
+    "versao": "Sinesp VDE 2021 (arquivo de s/d)"
+  }
+}
