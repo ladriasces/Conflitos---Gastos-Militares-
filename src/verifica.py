@@ -1,8 +1,8 @@
-"""Imprime, a partir de data/processed, os números citados no roteiro e no rascunho.
+"""Imprime, a partir de data/processed, os números citados no README e nos textos de divulgação.
 
 Uso: python -m src.verifica
 
-Serve de conferência: toda afirmação numérica dos textos em outputs/texto deve
+Serve de conferência: toda afirmação numérica dos textos produzidos com o projeto deve
 aparecer aqui. Também cruza Banco Mundial x planilha do SIPRI.
 """
 from __future__ import annotations

@@ -9,3 +9,9 @@ __pycache__/
 .ipynb_checkpoints/
 desktop.ini
 .DS_Store
+
+# Ficam só na pasta local: versões de divulgação das figuras e textos de trabalho.
+# O código continua gerando todas; no repositório fica a versão 16:9 de cada figura.
+outputs/figures/*_instagram.png
+outputs/figures/*.svg
+outputs/texto/
