@@ -1,7 +1,6 @@
 # Gasto militar, transferências de armas e conflitos armados (2014–2025)
 
 **LADRI · ASCES** — grupo de pesquisa em análise de dados em Relações Internacionais
-Versão 1.0, outubro de 2026 · dados até 2025, acessados em 13/10/2026
 
 ---
 
@@ -32,10 +31,9 @@ UCDP; segurança internacional; violência letal no Brasil.
 
 ---
 
-## 1. Questões de pesquisa
+## 1. Questões exploradas
 
-1. Como evoluiu o gasto militar mundial após 2014 e após 2022, em termos absolutos e
-   relativos ao PIB?
+1. Como evoluiu o gasto militar mundial em termos absolutos e relativos ao PIB?
 2. Em que medida os membros europeus da OTAN convergiram para as metas da aliança, e
    como o Brasil se compara a eles?
 3. Quem são os principais exportadores e importadores de armas, e quão concentrado é o
@@ -112,140 +110,8 @@ Banco Mundial com a planilha do SIPRI. As figuras passam por uma auditoria autom
 de layout (`src/auditoria.py`) que reprova texto cortado, sobreposto ou abaixo do
 tamanho mínimo.
 
-## 4. Resultados
 
-### 4.1 Gasto militar mundial
-
-![Figura 1](outputs/figures/fig01_gasto_mundial.png)
-
-O gasto militar mundial chegou a US$ 2.771 bilhões em 2025, alta real de 43,1% sobre
-2014 e de 24,4% sobre 2021. O peso do gasto no PIB mundial subiu de 2,2% (2014) para
-2,5% (2025), mas segue muito abaixo dos 6,0% de 1960. A Europa respondeu pela maior
-parte da expansão recente: de US$ 452 bilhões em 2021 para US$ 791 bilhões em 2025
-(+75%).
-
-### 4.2 Membros europeus da OTAN e Brasil
-
-![Figura 2](outputs/figures/fig02_otan_pib.png)
-
-Entre os 29 membros europeus da OTAN com dado, os que gastavam 2% do PIB ou mais
-passaram de 2 em 2014 para 5 em 2021 e 21 em 2025; a mediana subiu de 1,25% para 2,04%.
-Pela régua de 3,5% fixada em Haia, apenas Polônia (4,50%) e Letônia (3,61%) estavam
-acima do patamar em 2025. O Brasil seguiu trajetória oposta: 1,33% do PIB em 2014 e
-1,05% em 2025.
-
-### 4.3 Maiores orçamentos militares
-
-![Figura 3](outputs/figures/fig03_ranking_gasto.png)
-
-Os Estados Unidos gastaram US$ 929 bilhões em 2025, 33,5% do total mundial; os cinco
-maiores (EUA, China, Rússia, Alemanha e Índia) somam 58,5%. Entre 2015 e 2025, o gasto
-real da Ucrânia cresceu 1.507%, o da Polônia 190%, e os de Alemanha (128%), Israel
-(127%) e Rússia (111%) mais que dobraram. A Arábia Saudita recuou 20%. O Brasil ocupa
-a 21ª posição, com US$ 23,6 bilhões e variação real de −3,5%.
-
-### 4.4 Exportadores e importadores de armas
-
-![Figura 4](outputs/figures/fig04_exportadores_importadores.png)
-
-O volume mundial de transferências cresceu 9,2% entre 2016–20 e 2021–25. Os Estados
-Unidos responderam por 41,9% das exportações no segundo período, seguidos de França
-(9,8%) e Rússia (6,8%); as exportações russas caíram 64,5% e as italianas cresceram
-157%. Entre os importadores, a Ucrânia passou ao primeiro lugar (9,7%), à frente de
-Índia (8,2%), Arábia Saudita (6,7%) e Catar (6,4%). O Brasil é o 25º importador (1,2%).
-
-### 4.5 Concentração do mercado
-
-![Figura 7](outputs/figures/fig07_concentracao_mercado.png)
-
-A participação dos Estados Unidos nas exportações passou de 32% (2011–15) para 42%
-(2021–25), e a da Rússia caiu de 26% para 7%. A fatia somada dos cinco maiores
-exportadores recuou de 75% para 70%, com o avanço de fornecedores intermediários como
-Itália, Israel e Coreia do Sul. O mercado, portanto, tornou-se mais dependente do líder
-e ligeiramente menos concentrado no topo.
-
-### 4.6 Conflitos armados
-
-![Figura 5](outputs/figures/fig05_conflitos_tipo.png)
-
-O UCDP registra 65 conflitos de base estatal ativos em 2025, o maior número desde 1946
-(eram 31 em 2010 e 54 em 2021): 35 intraestatais, 22 intraestatais internacionalizados
-e 8 interestatais. O número de conflitos interestatais é o maior da série; o máximo
-anterior era 5. Entre eles estão Rússia–Ucrânia, Índia–Paquistão, Irã–Israel,
-Camboja–Tailândia e Afeganistão–Paquistão.
-
-### 4.7 Mortes em batalha
-
-![Figura 6](outputs/figures/fig06_mortes_regiao.png)
-
-Foram 153.643 mortes em batalha em 2025 (intervalo de 141.388 a 237.196), 2,1 vezes o
-total de 2020. O pico da série recente é 2022 (284.981), ano em que a guerra na Etiópia
-(163.219) superou a guerra Rússia–Ucrânia (99.473). Em 2025, Rússia–Ucrânia concentrou
-62% das mortes (94.741), seguida de Israel/Palestina, Sudão, RD Congo e Etiópia.
-
-### 4.8 Envolvimento em conflito e comércio de armas
-
-![Figura 8](outputs/figures/fig08_conflito_armas.png)
-
-Dos 15 maiores importadores de 2021–25, sete tiveram o governo como parte primária de
-conflito ativo no período (Ucrânia, Índia, Paquistão, Estados Unidos, Egito, Reino
-Unido e Israel). Entre os 15 maiores exportadores, cinco (Estados Unidos, Rússia,
-Israel, Reino Unido e Turquia). Grandes importadores como Arábia Saudita, Catar, Japão
-e Polônia não figuram como partes primárias de conflito ativo.
-
-### 4.9 Gasto militar e intensidade do conflito
-
-![Figura 9](outputs/figures/fig09_gasto_mortes.png)
-
-Entre os 42 países cujo governo foi parte de conflito com mortes em 2021–25 e que têm
-dado de gasto, a correlação de Spearman entre mortes em batalha e gasto militar (% do
-PIB) é 0,22, e 26 deles gastaram menos que a média mundial (2,3% do PIB). Os extremos
-ilustram a heterogeneidade: a Ucrânia destinou em média 27,7% do PIB à defesa, enquanto
-a Etiópia, com cerca de 297 mil mortes no período, declarou 0,6%.
-
-### 4.10 Violência letal no Brasil
-
-![Figura 10](outputs/figures/fig10_brasil_violencia.png)
-
-As mortes violentas registradas no Sinesp caíram de 64.435 em 2017 para 41.144 em 2025
-(−36%). As mortes por intervenção de agentes do Estado seguiram direção oposta, de
-2.616 em 2015 para 6.601 em 2025, e mantêm-se estáveis entre 6,2 mil e 6,6 mil por ano
-desde 2020. Com a queda do total, sua participação subiu de 4,8% para 16,0%.
-
-## 5. Discussão
-
-Os dados sugerem três padrões. Primeiro, a escalada recente do gasto militar é real em
-termos absolutos, mas moderada quando relativizada pelo tamanho da economia mundial; o
-que mudou de forma mais nítida foi a distribuição geográfica do esforço, deslocado para
-a Europa. Segundo, o mercado internacional de armas passa por uma recomposição em favor
-dos Estados Unidos e de fornecedores ocidentais intermediários, em detrimento da
-Rússia. Terceiro, o aumento do número de conflitos e o retorno da guerra interestatal
-não se traduzem, no nível dos países, numa relação simples entre conflito e gasto
-militar: a associação é fraca e depende fortemente de casos extremos e de países com
-dados ausentes.
-
-## 6. Limitações
-
-- **Comparabilidade do gasto.** Valores de China, Rússia e outros países pouco
-  transparentes são estimativas do SIPRI. Gasto fora do orçamento, financiamento
-  externo e forças paramilitares não são captados de forma homogênea.
-- **Natureza do TIV.** O indicador não mede valor financeiro e exclui armas leves,
-  munição e boa parte dos sistemas de baixo custo, como drones comerciais.
-- **Escopo do UCDP.** As séries usadas cobrem apenas violência de base estatal. Ficam
-  de fora a violência entre grupos não estatais e a violência deliberada contra civis,
-  relevantes em contextos como Sudão, Sahel e Gaza. As estimativas de mortes têm
-  incerteza ampla.
-- **Viés de seleção na Figura 9.** Países em guerras graves frequentemente não
-  divulgam dados de gasto (Síria, Iêmen) ou o fazem de forma intermitente (Sudão e
-  Afeganistão têm um único ano no período).
-- **Registros administrativos no Brasil.** A cobertura do Sinesp varia entre unidades
-  da federação e ao longo do tempo; em 2015, uma UF não tem registro em parte das
-  categorias. Parte do aumento das mortes por intervenção de agentes do Estado pode
-  refletir melhora do registro.
-- **Inferência.** As análises são descritivas. As associações apresentadas não
-  autorizam conclusões causais.
-
-## 7. Reprodutibilidade
+## 4. Reprodutibilidade
 
 Requer Python 3.11 ou superior (testado em Python 3.14, Windows 11).
 
@@ -274,7 +140,7 @@ O notebook [`notebooks/analise.ipynb`](notebooks/analise.ipynb) percorre a anál
 início ao fim. Além das figuras 16:9 versionadas aqui, o código gera localmente versões
 em SVG e no formato 4:5 (1080×1350 px) para divulgação.
 
-## 8. Estrutura do repositório
+## 5. Estrutura do repositório
 
 ```
 ├── README.md                 este documento
@@ -296,41 +162,12 @@ em SVG e no formato 4:5 (1080×1350 px) para divulgação.
     └── pipeline.py           execução de ponta a ponta
 ```
 
-## 9. Como citar
+## 6. Como citar
 
 > LADRI – ASCES. *Gasto militar, transferências de armas e conflitos armados
 > (2014–2025)*. Versão 1.0. Repositório de dados e código, out. 2026. Disponível em:
 > https://github.com/ladriasces/Conflitos---Gastos-Militares-.
 
-Ao usar os dados, cite também as fontes originais listadas abaixo.
-
-## 10. Referências
-
-GLEDITSCH, N. P. et al. Armed Conflict 1946–2001: A New Dataset. *Journal of Peace
-Research*, v. 39, n. 5, p. 615–637, 2002.
-
-MINISTÉRIO DA JUSTIÇA E SEGURANÇA PÚBLICA. *Sinesp VDE: base de dados e notas
-metodológicas dos gestores estaduais, 2015–2025*. Brasília: MJSP, 2026.
-
-NORTH ATLANTIC TREATY ORGANIZATION. *The Hague Summit Declaration*. Haia, 25 jun. 2025.
-
-STOCKHOLM INTERNATIONAL PEACE RESEARCH INSTITUTE. *SIPRI Military Expenditure Database*.
-Estocolmo: SIPRI, 2026. Disponível em: https://www.sipri.org/databases/milex.
-
-STOCKHOLM INTERNATIONAL PEACE RESEARCH INSTITUTE. *SIPRI Arms Transfers Database*.
-Estocolmo: SIPRI, 2026. Disponível em: https://www.sipri.org/databases/armstransfers.
-
-UPPSALA CONFLICT DATA PROGRAM. *UCDP/PRIO Armed Conflict Dataset*, versão 26.1, e
-*UCDP Battle-Related Deaths Dataset*, versão 26.1. Uppsala: Universidade de Uppsala,
-2026. Disponível em: https://ucdp.uu.se/downloads/.
-
-WORLD BANK. *World Development Indicators*: MS.MIL.XPND.GD.ZS e MS.MIL.XPND.CD.
-Washington, DC: World Bank, 2026. Disponível em: https://data.worldbank.org.
-
-> Os livros de códigos do UCDP indicam o artigo anual a ser citado para cada versão;
-> recomenda-se conferi-lo em https://ucdp.uu.se/downloads/ antes de publicar.
-
-## Nota sobre o desenvolvimento
 
 O código e a primeira versão dos textos foram produzidos com assistência do Claude
 (Anthropic), sob orientação e revisão do LADRI. Todos os números foram gerados a partir
